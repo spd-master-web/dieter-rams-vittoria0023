@@ -1,0 +1,47 @@
+* {
+
+}
+
+body {
+  margin: 0;
+  background-color: #ddd;
+}
+
+h1,h2 {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+logo.jpg {  
+  position: fixed;
+ 
+}
+
+
+*div 01 { 
+  text aling: :left;
+}
+
+*div 02 { 
+  text aling: :center;
+}
+
+*div 03 { 
+  text aling: :right;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  margin-bottom: 1em; 
+  padding-bottom: 1em; 
+  border-bottom: 1px solid #ddd;
+}
+  
+ 
