@@ -22,15 +22,15 @@ logo.jpg {
 }
 
 
-*div 01 { 
+*id 01 { 
   text aling: :left;
 }
 
-*div 02 { 
+*id 02 { 
   text aling: :center;
 }
 
-*div 03 { 
+*id 03 { 
   text aling: :right;
 }
 
